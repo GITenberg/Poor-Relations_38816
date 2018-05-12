@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5658
     wikipedia: http://en.wikipedia.org/wiki/Compton_Mackenzie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38816#Poor-Relations
 gutenberg_issued: '2012-02-09'
 gutenberg_type: Text
 identifiers:
